@@ -1,4 +1,4 @@
-> **This project has moved:** The actively maintained repository is now at [github.com/Turing-agent](https://github.com/Turing-agent). Please visit the new repository for updates and make contributions there.
+> **This project has moved:** The actively maintained repository is now at [github.com/Turing-agent](https://github.com/Turing-agent). Please visit the new repository for updates and make contributions there. This was the exact project version submitted for Swim with TinyFish hackathon.
 
 # Turing-Agent 🐟
 
